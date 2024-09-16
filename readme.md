@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/FKouto/Duckie-Anki/blob/main/cover.png?raw=true)
 
 # Duckie Anki
 
