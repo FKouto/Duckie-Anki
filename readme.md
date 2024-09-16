@@ -1,3 +1,5 @@
+![image]()
+
 # Duckie Anki
 
 Anki Duckie é uma aplicação web para criação de flashcards, com o objetivo de permitir que os usuários otimizem seu aprendizado com a ajuda de inteligência artificial e repetição. </br>
